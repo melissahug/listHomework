@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\listHomework\listHomework\bin\Debug\listHomework.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\listHomework\listHomework\bin\Debug\listHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\listHomework\listHomework\bin\Debug\listHomework.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\listHomework\listHomework\obj\Debug\listHomework.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\listHomework\listHomework\obj\Debug\listHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\listHomework\listHomework\obj\Debug\listHomework.pdb
